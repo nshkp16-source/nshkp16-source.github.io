@@ -18,6 +18,6 @@ Visit the homepage: [https://nshkp16-source.github.io](https://nshkp16-source.gi
 🕒 Last updated: *08 November 2025*
 
 ## 🤝 Collaborators
-This project is shared with: `gilbert215`
+This project is shared with: [`gilbert215`](https://github.com/your-collaborator-username)
 
 Feel free to comment, suggest improvements, or track deployment changes.
