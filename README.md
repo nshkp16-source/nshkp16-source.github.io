@@ -22,7 +22,7 @@ Visit the homepage: [https://nshkp16-source.github.io](https://nshkp16-source.gi
 | Nov 8, 2025 | Collaborator access enabled                | 🔄 Pending |
 
 ## 👥 Collaborators
-- [`your-collaborator-username`](https://github.com/your-collaborator-username)
+- [`gilbert215`](https://github.com/your-collaborator-username)
 
 ## 🛠️ Next Steps
 - Add navigation bar
